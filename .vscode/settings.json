@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "mqttclient.h": "c",
+        "main.h": "c",
+        "socket.h": "c",
+        "dhcp.h": "c",
+        "time.h": "c",
+        "_ansi.h": "c",
+        "httpserver.h": "c",
+        "httpparser.h": "c",
+        "wizchip_conf.h": "c",
+        "mqttconnect.h": "c",
+        "mqttpacket.h": "c"
+    }
+}
